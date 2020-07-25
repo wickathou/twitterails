@@ -16,7 +16,7 @@ files:
     - "bin/*"
     - "log/*"
     - "tmp/*"
-    - "test/**/*"
+    - "test/*"
     - "temp/**/**/*"
     
 # PLEASE DO NOT enable auto fixing options
