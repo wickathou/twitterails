@@ -3,7 +3,7 @@ AllCops:
     - "README.md"
     - "Guardfile"
     - "Rakefile"
-    - "config/**/*"
+    - "config/*"
     - "node_modules/**/*"
     - "app/channels/*"
     - "bin/*"

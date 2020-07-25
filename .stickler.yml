@@ -11,7 +11,7 @@ files:
     - "Guardfile"
     - "Rakefile"
     - "node_modules/**/*"
-    - "config/**/*"
+    - "config/*"
     - "app/channels/*"
     - "bin/*"
     - "log/*"
