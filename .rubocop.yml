@@ -5,9 +5,11 @@ AllCops:
     - "Rakefile"
     - "config/**/*"
     - "node_modules/**/*"
+    - "app/channels/*"
     - "bin/*"
     - "log/*"
     - "test/**/*"
+    - "tmp/**/*"
     - "temp/**/**/*"
 
   DisplayCopNames: true

@@ -7,12 +7,15 @@ linters:
 
 files:
   ignore:
+    - "README.md"
     - "Guardfile"
     - "Rakefile"
     - "node_modules/**/*"
     - "config/**/*"
+    - "app/channels/*"
     - "bin/*"
     - "log/*"
+    - "tmp/*"
     - "test/**/*"
     - "temp/**/**/*"
     
